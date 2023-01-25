@@ -1,9 +1,15 @@
-# Cálculo da Média
+<h1 align="center">Calculo da Média</h1>
+
+<p align="center" display="inline-block">
+
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" alt="top-language"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="top-language"/>  
+
+  </p>
 
 <p>Esse é um programa que calcula a média no semestre através da inserção de 4 notas. O código foi construído usando a linguagem python.</p><br>
 
-
-## Explicando o Código
+<h1 align="center"> Explicado o Código</h1>
 
 -  A função input é usada para entrada de dados <br>
 
