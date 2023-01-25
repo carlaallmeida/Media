@@ -9,7 +9,7 @@
 
 <p>Esse é um programa que calcula a média no semestre através da inserção de 4 notas. O código foi construído usando a linguagem python.</p><br>
 
-<h1 align="center"> Explicado o Código</h1>
+<h1 align="center"> Explicando o Código</h1>
 
 -  A função input é usada para entrada de dados <br>
 
